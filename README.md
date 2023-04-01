@@ -71,7 +71,8 @@ These are not prompts but questions that you can ask your clients.  <br>
 
 <br>
 <br>
-<h2> 50 Mega list </h2>
+<h2> 50 Mega list </h2> <br>
+<br> Feed product info, like in the example above. <br>
 <li>How can we ensure that our product is scalable and can handle increased demand?</li>
 <li>What are the potential risks and benefits of integrating third-party services or software into our product?</li>
 <li>How can we balance the needs of different stakeholders, such as customers, sales teams, and executives, when making product decisions?</li>
