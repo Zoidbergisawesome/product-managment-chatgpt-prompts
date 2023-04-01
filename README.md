@@ -42,3 +42,16 @@ By following these steps, you can improve the user interface of your SaaS produc
 <li>How can we effectively measure and analyze customer feedback and usage data to inform product development decisions?</li>
 <li>What strategic partnerships or collaborations can we pursue to enhance our product's reputation and market position?</li>
 <li>What ethical considerations should we take into account when incorporating AI or machine learning into our product, and how can we ensure transparency and accountability?</li>
+
+<br>
+<br>
+<h2>Jira Tickets </h2>
+ I want you to act as a senior product manager. I will give you my product feature request and you will give me a Jira Ticket output in the following format: <br>
+User story: As a user, I want X, so I can Y. <br>
+Description: <br>
+Acceptance criteria:<br>
+Here is my product feature request from a client: Lorem Ipsum... <br>
+
+<br>
+
+
