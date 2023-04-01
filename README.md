@@ -54,4 +54,71 @@ Here is my product feature request from a client: Lorem Ipsum... <br>
 
 <br>
 
+<h2>Disovery calls</h2>
+<br>
+These are not prompts but questions that you can ask your clients.  <br>
 
+<li>What are your current pain points or challenges that our product could potentially address?</li>
+<li>How do you currently use similar products in the market, and what are the features that you find most useful?</li>
+<li>What are the must-have features you expect to see in a product like ours?</li>
+<li>What are the goals you hope to achieve by using our product, and how do you measure success?</li>
+<li>What are some use cases for our product that you might not have considered, but could potentially benefit from?</li>
+<li>How would you like to see our product evolve in the future to better meet your needs?</li>
+<li>What are the key factors that influence your purchasing decisions for products like ours?</li>
+<li>What are the potential obstacles that could prevent you from using our product, and how can we address them?</li>
+<li>Can you share any success stories or examples of how our product has helped you or your team in the past?</li>
+<li>What are some areas of our product that you find confusing or difficult to use, and how can we improve them?</li>
+
+<br>
+<br>
+<h2> 50 Mega list </h2>
+<li>How can we ensure that our product is scalable and can handle increased demand?</li>
+<li>What are the potential risks and benefits of integrating third-party services or software into our product?</li>
+<li>How can we balance the needs of different stakeholders, such as customers, sales teams, and executives, when making product decisions?</li>
+<li>What are the most effective strategies for reducing churn and retaining customers?</li>
+<li>How can we improve the onboarding process for new customers and make it more user-friendly?</li>
+<li>What are the best practices for conducting A/B testing and other experiments to optimize our product?</li>
+<li>How can we leverage data analytics to better understand customer behavior and preferences?</li>
+<li>What are the most important features and functionalities to prioritize for mobile devices and other platforms?</li>
+<li>How can we ensure that our product meets accessibility standards and is usable for people with disabilities?</li>
+<li>What are the potential risks and benefits of offering a free trial or freemium model for our product?</li>
+<li>How can we collaborate with customers and other stakeholders to co-create new features and product offerings?</li>
+<li>What are the most effective ways to gather and analyze customer feedback, such as through surveys, user testing, or social media?</li>
+<li>How can we balance short-term revenue goals with long-term strategic objectives for our product?</li>
+<li>What are the most effective ways to communicate our product's value proposition to customers and differentiate it from competitors?</li>
+<li>How can we use customer data to personalize and tailor our product offerings to individual users?</li>
+<li>What are the potential ethical considerations associated with our product, such as data privacy or security concerns?</li>
+<li>How can we measure and optimize the customer lifetime value of our product?</li>
+<li>What are the most important partnerships and integrations to consider for our product, such as with other software providers or marketplaces?</li>
+<li>How can we use gamification or other techniques to increase user engagement and drive product adoption?</li>
+<li>What are the most important features and functionalities to prioritize for enterprise customers versus individual consumers?</li>
+<li>How can we ensure that our product is compliant with relevant laws and regulations, such as GDPR or CCPA?</li>
+<li>What are the most effective strategies for reducing customer support tickets and improving the self-service experience for users?</li>
+<li>How can we use machine learning or other AI technologies to enhance our product offerings and personalize the user experience?</li>
+<li>What are the most effective ways to incentivize customers to refer our product to others and drive viral growth?</li>
+<li>How can we ensure that our product is accessible to users in different languages and cultures?</li>
+<li>What are the most effective strategies for upselling and cross-selling our product to existing customers?</li>
+<li>How can we use social media and other channels to increase brand awareness and reach new customers?</li>
+<li>What are the potential risks and benefits of implementing a subscription-based model for our product?</li>
+<li>How can we ensure that our product is usable for people with different levels of technical expertise?</li>
+<li>What are the most important metrics to track for our product, such as conversion rates or retention rates?</li>
+<li>How can we leverage user-generated content or social proof to increase trust and credibility for our product?</li>
+<li>What are the potential risks and benefits of offering a free, open-source version of our product?</li>
+<li>How can we collaborate with partners and other stakeholders to build an ecosystem around our product?</li>
+<li>What are the most effective ways to incentivize users to upgrade to premium or enterprise versions of our product?</li>
+<li>How can we use content marketing or thought leadership to establish our product as a leader in our industry?</li>
+<li>What are the potential risks and benefits of expanding into new geographic markets or industries with our product?</li>
+<li>How can we build and maintain a strong brand identity for our product that resonates with our target audience?</li>
+<li>What are the most important customer personas to consider when designing and developing our product?</li>
+<li>How can we use customer segmentation and targeting to personalize the user experience and drive conversions?</li>
+<li>What are the most effective ways to address user pain points and reduce friction in the customer journey?</li>
+<li>How can we use data and analytics to identify new market opportunities and potential product offerings?</li>
+<li>What are the most important SEO and SEM strategies to consider when promoting our product online?</li>
+<li>How can we use email marketing and other channels to nurture leads and drive conversions?</li>
+<li>What are the potential risks and benefits of developing a mobile app version of our product?</li>
+<li>How can we ensure that our product is compatible with different browsers, devices, and operating systems?</li>
+<li>What are the most effective ways to reduce the cost of customer acquisition and increase our return on investment?</li>
+<li>How can we use social listening and other techniques to monitor and respond to customer feedback and sentiment?</li>
+<li>What are the potential risks and benefits of developing a chatbot or other AI-powered tool to support customer service?</li>
+<li>How can we use user-generated content or community building to foster a sense of belonging and loyalty among our customers?</li>
+<li>What are the most important design principles and user experience considerations to keep in mind when developing our product?</li>
